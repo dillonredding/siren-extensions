@@ -1,4 +1,4 @@
-> ***This specification has been moved to [Siren.js's `spec-extensions` repository](https://github.com/siren-js/spec-extensions#radio-object).***
+> ***This specification has been moved to [Siren.js's `spec-extensions` repository](https://github.com/siren-js/spec-extensions).***
 
 # Siren Extensions
 
